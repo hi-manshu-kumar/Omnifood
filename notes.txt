@@ -40,3 +40,15 @@ we'll learn how to use icons
 how to draw circles with css
 a cool technique to make seperations between sections
 how to incorporate app store and playstore
+---------------------------------------------------------
+autoprefixier in extension to make compatiable to every browser
+respond.js
+html5shiv
+selectivizir
+------------------------------------------------
+jquery tools
+->magnific-popup----to give popup
+->tooltipster---to give cool tips
+->maplace-------for having maps
+->typer.js------for typing
+->one page scroll----for great scrollling
