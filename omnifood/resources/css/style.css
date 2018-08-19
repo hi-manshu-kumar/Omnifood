@@ -220,7 +220,7 @@ header{
 }
 
 .logo-black{ 
-    display: hidden;
+    display: none;
     height: 50px;
     widows: auto;
     float: left;
@@ -276,7 +276,7 @@ header{
 }
 
 .sticky .logo { display: none; }
-.sticky .logo-block{ display: block; }
+.sticky .logo-black{ display: block; }
 /*-----------------------------------*/
 /*FEATURES*/
 /*------------------------------------*/
